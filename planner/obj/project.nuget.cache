@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDXnm2crn0HxJtdTawQDhZ5HtnUbByOoyInggzo9G/ry+NyRIHYwgPuFAG543JF3yOmQPw87B6gmksITf6xAKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\df718\\RiderProjects\\pr2.3\\planner\\planner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\df718\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\df718\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\df718\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
